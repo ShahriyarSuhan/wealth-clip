@@ -1,30 +1,4 @@
-/*-----------------------------------------------------------------------------------
-    
-    Template Name: Sasly - Multipurpose Landing Page HTML Template
-    URI: site.com 
-    Description: Sasly is a flexible and professional Multipurpose HTML template, ideal for a variety of landing page needs including SaaS, software, fintech, Ai, E-learning, creative agencies, consulting services, software subscriptions, web applications, and digital marketing websites. Designed with all the essential elements to create an impactful landing page or corporate site, Sasly covers every detail to suit your business needs. We have included best practices of web development and you can create a great website layout based on Bootstrap or Grid 1320px.
-    Author: Pixelfit
-    Author URI: https://themeforest.net/user/pixelfit
-    Version: 1.0 
 
-    Note: This is Main Js file
-
------------------------------------------------------------------------------------
-    ===================
-    Js INDEX
-    ===================
-    ## Main Menu
-    ## Document Ready
-    ## Nav Overlay
-    ## Preloader
-    ## Sticky
-    ## Back to top
-    ## Magnific-popup js
-    ## Nice select
-    ## Gsap
-    ## AOS Js
-    
------------------------------------------------------------------------------------*/
 
 (function($) {
     'use strict';
