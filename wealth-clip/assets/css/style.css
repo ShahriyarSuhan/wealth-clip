@@ -142,8 +142,8 @@ body {
 }
 .hero-ai .hero-content h1 span b {
   font-weight: 600;
-  background: -webkit-gradient(linear, left top, right top, from(#efa352), to(#d96744));
-  background: linear-gradient(90deg, #fc9426 0%, #d9c544 100%);
+  background: -webkit-gradient(linear, left top, right top, from(#ffffff), to(#ffffff));
+  background: linear-gradient(180deg, #ff990a 0%, #fff4d6 100%);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
