@@ -62,8 +62,8 @@ body {
   left: 0;
   width: 100%;
   height: 370px;
-  background: -webkit-gradient(linear, left bottom, left top, from(rgba(125, 66, 220, 0.07)), color-stop(69.58%, rgba(125, 66, 220, 0)));
-  background: linear-gradient(0deg, rgba(125, 66, 220, 0.07) 0%, rgba(125, 66, 220, 0) 69.58%);
+  background: -webkit-gradient(linear, left bottom, left top, from(rgba(250, 128, 41, 0.176)), color-stop(69.58%, rgba(220, 151, 66, 0)));
+  background: linear-gradient(0deg, rgba(220, 143, 66, 0.07) 0%, rgba(220, 135, 66, 0) 69.58%);
 }
 .hero-ai .shape {
   position: absolute;
@@ -240,7 +240,7 @@ body {
   width: 80%;
   height: 220px;
   border-radius: 220px;
-  background: radial-gradient(50% 50% at 50% 50.77%, #fe641a 0%, #7D42DC 100%);
+  background: radial-gradient(50% 50% at 50% 50.77%, #fe641a 0%, #fb8d2c 100%);
   -webkit-filter: blur(30px);
           filter: blur(30px);
   z-index: -1;
