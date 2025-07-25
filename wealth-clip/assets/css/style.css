@@ -750,7 +750,11 @@ body {
   }
 }
 .page-hero-ss .page-content h1.page-title {
-  color: var(--white-color);
+  background: -webkit-gradient(linear, left top, right top, from(#ffffff), to(#ffffff));
+  background: linear-gradient(180deg, #db3200 0%, #f7d282 100%);
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
 }
 .page-hero-ss .page-content h3.page-title {
   color: var(--white-color);
