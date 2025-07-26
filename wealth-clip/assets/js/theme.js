@@ -112,10 +112,10 @@
                             header.addClass('sticky');
                         }
                     } else {
-                        header.removeClass('sticky');
+                        header.addClass('sticky')
                     }
                 } else if (currentScroll === 0) {
-                    header.removeClass('sticky');
+                    header.addClass('sticky');
                 }
                 lastScroll = currentScroll;
             });

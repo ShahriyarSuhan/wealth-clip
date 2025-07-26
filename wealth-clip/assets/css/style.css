@@ -482,7 +482,7 @@ body {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  content: "\f067";
+  content: "→";
   font-family: "Font Awesome 5 Pro";
   font-weight: 400;
   margin-left: auto;
@@ -497,7 +497,7 @@ body {
 }
 .faq-ai .accordion-item .accordion-header .accordion-title[aria-expanded=true]:after {
   border-color: #26272B;
-  content: "\f068";
+  content: "↓";
   color: var(--white-color);
 }
 .faq-ai .accordion-item .accordion-content p {

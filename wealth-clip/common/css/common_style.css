@@ -1356,8 +1356,8 @@ label {
 }
 .header-navigation .navbar-toggler {
   padding: 11px 7px;
-  border: 1px solid var(--heading-color);
-  background-color: transparent;
+  /* border: 1px solid var(--heading-color); */
+  background-color: rgb(255, 142, 44);
   cursor: pointer;
   display: none;
   border-radius: 5px;
@@ -1407,7 +1407,8 @@ label {
     overflow-x: hidden;
     overflow-y: scroll;
     z-index: 9999;
-    background-color: var(--white-color);
+    background-color: rgb(255, 255, 255);
+
   }
   .header-navigation .sasly-nav-menu.menu-on {
     left: 0;
@@ -1705,6 +1706,8 @@ label {
 @media screen and (max-width: 991px) {
   .header-three .header-navigation .sasly-nav-menu.menu-on {
     left: 0;
+    z-index: 999;
+    height: 100vh;
   }
   .header-three .header-navigation .sasly-nav-menu .main-menu ul li a {
     color: var(--heading-color);
